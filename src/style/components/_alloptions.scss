@@ -1,0 +1,25 @@
+.optioncover{
+    margin-top: $l-size;
+    width: 95%;
+}
+
+.optionHeader{
+    display: flex;
+    justify-content: space-between;
+    background-color: $light-blue;
+    padding: 0 $m-size;
+    width: 100%;
+    color: $off-white;
+}
+.optionHeader button{
+    padding: 0;
+    background-color: $light-blue;
+    color: $off-white;
+    border: 0;
+}
+.options{
+    background-color: $my-blue;
+    padding: 0 $m-size;
+    width: 100%;
+    padding-top: $xs-size;
+}

@@ -1,0 +1,14 @@
+.decision{
+    margin: $m-size 0;
+    width: 100%;
+}
+
+.decision button {
+    width: 100%;
+    padding: $l-size $xxl-size;
+    font-size: $m-size;
+    background-color: $my-blue;
+    color: black;
+    font-weight: 600;
+    border-bottom: $xs-size solid darken($dark-blue,10%);
+}

@@ -1,0 +1,22 @@
+.question{
+    display: flex;
+}
+.question input{
+    width: 70%;
+    padding: $m-size;
+    font-size: $m-size;
+    background-color: $off-white;
+    color: black;
+    font-weight: 600;
+    margin: $xss-size;
+}
+
+.question button{
+    width: 30%;
+    padding: $m-size;
+    font-size: $m-size;
+    background-color: $off-white;
+    color: black;
+    font-weight: 600;
+    margin: $xs-size;
+}

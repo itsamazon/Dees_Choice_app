@@ -1,0 +1,29 @@
+.addoption{
+    background-color: $my-blue;
+    padding: $m-size;
+    width: 95%;
+   
+}
+.addoption form{
+    display: flex;
+    margin-top: $xs-size;
+}
+.addoption input{ 
+    width: 70%;
+    padding: $xs-size;
+    font-size: $m-size;
+    background-color: $off-white;
+    color: black;
+    font-weight: 600;
+    border-right: 0;
+}
+
+.addoption button{
+    width: 30%;
+    margin-left: $m-size;
+    padding: $xs-size;
+    font-size: $m-size;
+    background-color: $off-white;
+    color: black;
+    font-weight: 600;
+}
